@@ -1,17 +1,17 @@
-# Library-Management-system-using-python
-Library Management system using python and sqlite
+# Book-Store-Management-system-using-python
 
-This project consists of code for library management system using python3, sqlite and Tkinter GUI.
+BookStore management system using python and sqlite
+
+This project consists of code for BookStore Management system using python3, sqlite and Tkinter GUI.
 
 It consists of following functionalites:
 1) Login
 2) Sign up
-3) forgot password
-4) logout
+3) Main Dashboard
+4) Forgot Password
 5) Search book
-6) buy book
-7) review book
-8) rate book
+6) Buy book
+7) Rate book
 
 # Login Form
 
@@ -19,7 +19,7 @@ It consists of following functionalites:
 
 # SignUp Form
 
-![image](https://user-images.githubusercontent.com/76084431/188198112-403ec8e9-09e1-4ec5-8684-1ce814f165bf.png)
+![image](https://user-images.githubusercontent.com/76084431/188199094-688f63cc-f2f0-4a1e-abc3-a9a74e623b71.png)
 
 # Main Dashboard
 
